@@ -9,3 +9,4 @@ Using
 3) Express
 4) MongoDB
 5) Heroku for deployment
+6) Passportjs
