@@ -1,7 +1,6 @@
 {
   "name": "server",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "engines": {
     "node": "11.12.0",
@@ -14,5 +13,15 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.4"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Preeti86/Feeback-Collection-Application.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Preeti86/Feeback-Collection-Application/issues"
+  },
+  "homepage": "https://github.com/Preeti86/Feeback-Collection-Application#readme",
+  "description": ""
 }
