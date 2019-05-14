@@ -8,3 +8,4 @@ Using
 2) Node
 3) Express
 4) MongoDB
+5) Heroku for deployment
