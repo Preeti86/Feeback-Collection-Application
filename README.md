@@ -10,3 +10,14 @@ Using
 4) MongoDB
 5) Heroku for deployment
 6) Passportjs
+
+
+User Story
+
+1) User clicks 'Login'
+2) Forward users's request to Google
+3) Ask user if they grant permission
+4) User grants permission
+5) Put user on hold, take the 'code' from the URL
+6) Send request to google with 'code' included
+7) Google sees 'code' in URL replies with details about this user
