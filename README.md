@@ -9,7 +9,7 @@ Using
 3) Express
 4) MongoDB
 5) Heroku for deployment
-6) Passportj
+6) Passport
 7) npm install --save cookie-session
 
 
